@@ -72,6 +72,7 @@
             android:button="@android:color/transparent"
             android:textAlignment="center"
             android:padding="2dp"
+            android:background="@drawable/custom_backgroundcolor_tab"
             android:drawableBottom="@drawable/baseline_keyboard_arrow_down_black_18dp"/>
 
         <View
@@ -87,6 +88,7 @@
             android:button="@android:color/transparent"
             android:textAlignment="center"
             android:padding="2dp"
+            android:background="@drawable/custom_backgroundcolor_tab"
             android:drawableBottom="@drawable/baseline_keyboard_arrow_down_black_18dp"/>
 
         <View
@@ -102,6 +104,7 @@
             android:button="@android:color/transparent"
             android:textAlignment="center"
             android:padding="2dp"
+            android:background="@drawable/custom_backgroundcolor_tab"
             android:drawableBottom="@drawable/baseline_keyboard_arrow_down_black_18dp"/>
 
     </RadioGroup>
